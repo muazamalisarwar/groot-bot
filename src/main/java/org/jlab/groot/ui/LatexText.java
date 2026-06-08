@@ -184,3 +184,4 @@ public void drawString(Graphics2D  g2d, int x, int y, int alignX, int alignY, in
         LatexText lt = LatexText.createFromDouble(0.56789, 2);
     }
 }
+

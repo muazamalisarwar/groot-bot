@@ -150,3 +150,4 @@ public class GraphicsDebug {
         debug.getCanvas().getRegion(2).getGraphicsAxis().addNode(new DataNode2D());
     }
 }
+

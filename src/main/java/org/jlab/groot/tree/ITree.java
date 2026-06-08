@@ -22,3 +22,4 @@ public interface ITree {
     boolean       readNext();
     void          configure();
 }
+

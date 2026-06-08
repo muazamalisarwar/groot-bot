@@ -79,3 +79,4 @@ public class H1FC {
         public boolean contains(double value) { return (value>=min&&value<=max);}
     }
 }
+

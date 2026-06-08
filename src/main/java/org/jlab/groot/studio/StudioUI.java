@@ -801,3 +801,4 @@ public class StudioUI implements MouseListener, ActionListener {
 		}
 	}
 }
+

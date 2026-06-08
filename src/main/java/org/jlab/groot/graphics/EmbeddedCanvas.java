@@ -1167,3 +1167,4 @@ public class EmbeddedCanvas extends JPanel implements MouseMotionListener, Mouse
     }
 
 }
+

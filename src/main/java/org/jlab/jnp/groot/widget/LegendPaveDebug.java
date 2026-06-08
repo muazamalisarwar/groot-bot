@@ -106,3 +106,4 @@ public class LegendPaveDebug extends Node2D {
         frame.setVisible(true);
     }
 }
+

@@ -130,3 +130,4 @@ public class GStyle {
             palette.setBackgroundColor(bgColor);
         }
 }
+

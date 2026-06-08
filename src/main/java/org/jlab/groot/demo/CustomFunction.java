@@ -18,3 +18,4 @@ public class CustomFunction extends Func1D{
 		return sum;
 	}
 }
+

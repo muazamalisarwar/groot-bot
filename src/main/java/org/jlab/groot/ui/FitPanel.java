@@ -509,3 +509,4 @@ public class FitPanel extends JPanel {
 		return max1;
 	}
 }
+

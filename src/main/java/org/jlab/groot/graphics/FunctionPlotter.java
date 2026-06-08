@@ -109,3 +109,4 @@ public class FunctionPlotter implements IDataSetPlotter {
     }
  
 }
+

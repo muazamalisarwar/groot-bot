@@ -166,3 +166,4 @@ public class HistogramPlotter  implements IDataSetPlotter {
         return dataRegion;
     }
 }
+

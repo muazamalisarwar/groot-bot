@@ -53,3 +53,4 @@ public class ProgressBar {
 	        this.progress = new StringBuilder(60);
 	    }
 }
+

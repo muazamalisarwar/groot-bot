@@ -112,3 +112,4 @@ public class EmbeddedCanvasGroup extends JPanel implements ActionListener {
         frame.setVisible(true);
     }
 }
+

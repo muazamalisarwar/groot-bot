@@ -25,3 +25,4 @@ public interface TreeProvider {
     JDialog     treeConfigure();
     
 }
+

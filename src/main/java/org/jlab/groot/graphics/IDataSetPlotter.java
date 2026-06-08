@@ -24,3 +24,4 @@ public interface IDataSetPlotter {
     void         draw(Graphics2D  g2d, GraphicsAxisFrame frame);
     Dimension3D  getDataRegion();
 }
+

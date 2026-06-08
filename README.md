@@ -13,7 +13,7 @@ and since became very improtant part of CLAS12 online and offline software.This 
 
 <img src="https://github.com/gavalian/twig/blob/main/tutorials/images/twig-demo-0.0.4.png" width="900">
 
-Examples produced by [twig repository](https://github.com/gavalian/twig)
+Examples produced by: Muazam Ali
 
 # Usage
 
@@ -108,4 +108,5 @@ this command takes two lines from the input and joins them into one line
 ```
 paste - - < epip_hb.txt > epip_hb_joined.txt
 ```
+
 

@@ -17,3 +17,4 @@ public class EmbeddedToolbar extends JPanel {
         
     }
 }
+

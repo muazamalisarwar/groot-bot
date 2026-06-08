@@ -119,3 +119,4 @@ public class BarGraphNode2D extends DataNode2D {
         //g2d.setStroke(new BasicStroke(2));
     }
 }
+

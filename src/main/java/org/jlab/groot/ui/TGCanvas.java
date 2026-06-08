@@ -157,3 +157,4 @@ public class TGCanvas extends JFrame implements ActionListener {
         c1.setCanvas("ECAL");
     }
 }
+

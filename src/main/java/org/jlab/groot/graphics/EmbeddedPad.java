@@ -712,3 +712,4 @@ public class EmbeddedPad {
         this.attr.setPalette(pal);
     }
 }
+

@@ -120,3 +120,4 @@ public class StatisticsNode2D extends Node2D {
         return height*this.descriptions.size();
     }
 }
+

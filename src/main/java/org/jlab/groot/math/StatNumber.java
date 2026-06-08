@@ -127,3 +127,4 @@ public class StatNumber {
                 + (num.error()*num.error()));
 	}
 }
+

@@ -188,3 +188,4 @@ public class CanvasWidgetDebug extends Node2D {
         frame.setVisible(true);
     }
 }
+

@@ -122,3 +122,4 @@ public class StudioToolBar {
         return this.toolbar;
     }
 }
+

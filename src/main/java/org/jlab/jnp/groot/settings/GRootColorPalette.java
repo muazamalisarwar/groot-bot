@@ -197,3 +197,4 @@ public class GRootColorPalette {
         return paletteColors[(int) (fraction * (paletteColors.length - 1))];
     }
 }
+

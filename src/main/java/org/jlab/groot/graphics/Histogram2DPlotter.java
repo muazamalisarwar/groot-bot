@@ -174,3 +174,4 @@ public class Histogram2DPlotter implements IDataSetPlotter {
         return this;
     }
 }
+

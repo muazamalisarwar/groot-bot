@@ -65,3 +65,4 @@ public class DataLine {
     public int getLineStyle(){ return lineStyle;}
     public int getLineWidth(){ return lineWidth;}
 }
+

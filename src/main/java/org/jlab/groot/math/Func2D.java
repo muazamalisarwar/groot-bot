@@ -87,3 +87,4 @@ public class Func2D {
             userPars.getParameters().get(i).setValue(pars[i]);
     }
 }
+

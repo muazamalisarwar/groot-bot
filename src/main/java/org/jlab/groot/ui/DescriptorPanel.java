@@ -634,3 +634,4 @@ public class DescriptorPanel extends JPanel {
 	}
 
 }
+

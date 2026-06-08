@@ -83,3 +83,4 @@ public class HistogramNode1D extends DataNode2D {
         g2d.draw(path);
     }
 }
+

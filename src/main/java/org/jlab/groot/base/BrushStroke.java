@@ -97,3 +97,4 @@ public class BrushStroke implements Stroke {
     }
     
 }
+

@@ -68,3 +68,4 @@ public class ErrorFunction {
         System.out.println();
     }
 }
+

@@ -106,3 +106,4 @@ public class GRootColorPalettePanel extends JPanel implements MouseInputListener
         //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
+

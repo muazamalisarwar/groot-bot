@@ -23,3 +23,4 @@ public class DataSetUtils {
         return DataSetUtils.dataFraction(log_value, log_min, log_max);
     }
 }
+

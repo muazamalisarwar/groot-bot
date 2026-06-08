@@ -252,3 +252,4 @@ public class FunctionFactory {
         System.out.println(String.format("Divergence : %.8f", divergence));
     }
 }
+

@@ -96,3 +96,4 @@ public class WobbleStroke implements Stroke {
         return x+(float)Math.random()*amplitude*2-1;
     }
 }
+

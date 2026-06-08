@@ -124,3 +124,4 @@ public class FitterFunction implements FCNBase {
         return str.toString();
     }
 }
+

@@ -280,3 +280,4 @@ public class DataCanvas extends Canvas2D {
             pdfDoc.writeToFile(new File(filename));
     }
 }
+

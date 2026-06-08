@@ -841,3 +841,4 @@ public class GraphicsAxis {
         this.palette = palette;
     }
 }
+

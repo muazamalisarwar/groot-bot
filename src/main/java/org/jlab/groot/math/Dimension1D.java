@@ -262,3 +262,4 @@ public class Dimension1D implements Cloneable{
         List<Double>  ticksLog = x.getDimensionTicksLog(8);
     }
 }
+

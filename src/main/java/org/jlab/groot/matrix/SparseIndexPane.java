@@ -128,3 +128,4 @@ public class SparseIndexPane extends JPanel {
     }
     
 }
+

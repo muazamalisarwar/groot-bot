@@ -73,3 +73,4 @@ public class RandomTree extends Tree {
          frame.setVisible(true);
     }
 }
+

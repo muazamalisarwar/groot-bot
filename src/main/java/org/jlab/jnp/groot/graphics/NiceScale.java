@@ -197,3 +197,4 @@ public class NiceScale {
         System.out.println(nice.getOrderString());
     }
 }
+

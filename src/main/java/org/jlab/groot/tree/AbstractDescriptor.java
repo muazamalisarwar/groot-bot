@@ -38,3 +38,4 @@ public abstract class AbstractDescriptor {
     public abstract JDialog        edit(Tree tree);
     
 }
+

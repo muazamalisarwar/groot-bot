@@ -239,3 +239,4 @@ public class EmbeddedCanvasTabbed extends JPanel implements ActionListener {
     }
     
 }
+

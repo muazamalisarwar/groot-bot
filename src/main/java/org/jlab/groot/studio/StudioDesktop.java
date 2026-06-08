@@ -78,3 +78,4 @@ public class StudioDesktop extends JFrame implements ActionListener {
         StudioDesktop desktop = new StudioDesktop();
     }
 }
+

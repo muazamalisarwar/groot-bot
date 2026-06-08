@@ -80,3 +80,4 @@ public enum AttributeType {
         return UNDEFINED;
     }
 }
+

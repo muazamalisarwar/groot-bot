@@ -29,3 +29,4 @@ public interface IDataSet {
     double getMax();
     void save(String filename);
 }
+

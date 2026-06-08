@@ -63,3 +63,4 @@ public class GraphicsAxisTests extends JPanel {
         frame.setVisible(true);
     }
 }
+

@@ -262,3 +262,4 @@ public class LatexText {
         LatexText lt = LatexText.createFromDouble(0.56789, 2);        
     }
 }
+

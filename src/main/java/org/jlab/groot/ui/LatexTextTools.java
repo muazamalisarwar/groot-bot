@@ -144,3 +144,4 @@ public class LatexTextTools {
         AttributedString str = LatexTextTools.convertSubAndSuperscript(latex);
     }
 }
+

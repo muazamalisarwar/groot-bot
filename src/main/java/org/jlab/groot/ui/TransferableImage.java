@@ -60,3 +60,4 @@ public class TransferableImage implements Transferable {
         return false;
     }
 }
+

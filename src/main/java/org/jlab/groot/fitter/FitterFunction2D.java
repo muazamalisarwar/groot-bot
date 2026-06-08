@@ -99,3 +99,4 @@ public class FitterFunction2D  implements FCNBase {
         return chi2;
     }
 }
+

@@ -236,3 +236,4 @@ public class TreeFile extends Tree {
         System.out.println("SIZE = " + vec.size() + "  MAX = " + vec.getMax());        
     }
 }
+

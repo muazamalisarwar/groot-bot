@@ -70,3 +70,4 @@ public class Legend extends PaveText {
     }
     
 }
+

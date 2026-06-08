@@ -637,3 +637,4 @@ public class ParallelSliceFitter {
 		public void setResult(H1F histogram, F1D fit, int fitNumber);
 	}
 }
+
